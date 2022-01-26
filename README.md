@@ -1,5 +1,16 @@
 # PENRISTEK 2022
 
+## Deskripsi
+Departemen penelitian riset dan teknologi 
+merupakan sebuah departemen yang mewadahi 
+dan menjembatani para mahasiswa mengenai 
+kegiatan akademik, selain itu departemen 
+penristek juga membantu mendorong mahasiswa 
+TI untuk dapat berprestasi dalam bidang 
+penelitian atau riset. Serta mengembangkan 
+budaya ilmiah di lingkungan TI, sehingga sumber daya 
+manusia pada jurusan TI menjadi lebih berkualitas kedepannya
+
 ## Visi
 Garda terdepan penggerak mahasiswa jurusan teknik informatika 
 dalam bidang keilmiahan khususnya bidang teknologi informasi 
