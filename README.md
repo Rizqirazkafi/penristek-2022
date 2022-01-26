@@ -59,3 +59,12 @@ Code Jam X Progate
 Webinar UX 
 </li>
 </ul>
+
+## Biro
+
+### Kolektif
+Fokus pada pengembangan karya ilmiah mahasiswa dalam bidang teknologi 
+informasi.
+
+### Komatik
+Menyiapkan mahasiswa untuk kompetisi dalam bidang teknologi informasi.
