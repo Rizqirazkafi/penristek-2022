@@ -1,7 +1,7 @@
 # PENRISTEK 2022
 
 ## Deskripsi
-Departemen penelitian riset dan teknologi 
+Departemen Penalaran, Riset, dan Teknologi  
 merupakan sebuah departemen yang mewadahi 
 dan menjembatani para mahasiswa mengenai 
 kegiatan akademik, selain itu departemen 
@@ -41,5 +41,21 @@ dalam upaya pengembangan dan mengaplikasikan teknologi yang dimiliki.
 <li>
 Melakukan koordinasi dengan departemen lain 
 untuk pengembangan riset dan teknologi.
+</li>
+</ul>
+
+## Program Kerja
+<ul>
+<li>
+Webinar Linux
+</li>
+<li>
+Webinar Full Stack Web Developer
+</li>
+<li>
+Code Jam X Progate
+</li>
+<li>
+Webinar UX 
 </li>
 </ul>
