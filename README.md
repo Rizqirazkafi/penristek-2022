@@ -1,4 +1,4 @@
-# <img src="canvas.png" width="50" height="50"> PENRISTEK 2022
+# <img src="canvas.png" width="24" height="24"> PENRISTEK 2022
 
 ## Deskripsi
 Departemen Penalaran, Riset, dan Teknologi  
