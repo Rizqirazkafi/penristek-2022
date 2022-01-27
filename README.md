@@ -1,4 +1,4 @@
-![fa-terminal](canvas.png)
+<img src="canvas.png" width="50" height="50">
 
 # PENRISTEK 2022
 
