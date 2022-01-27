@@ -1,4 +1,4 @@
-# >_ PENRISTEK 2022
+# {} PENRISTEK 2022 {}
 
 ## Deskripsi
 Departemen Penalaran, Riset, dan Teknologi  
