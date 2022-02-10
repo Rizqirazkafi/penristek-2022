@@ -8,4 +8,4 @@
 ## Jumlah Staff Baru
 
 1. Angkatan 20 : 1
-1. Angkatan 21 : 4
+1. Angkatan 21 : 3
