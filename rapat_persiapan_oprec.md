@@ -1,5 +1,5 @@
 # Khusus PENRISTEK 
-> 2922-02-10
+> 2022-02-10
 
 ## Jumlah Calon PENRISTEK
 1. Angkatan 20 :
