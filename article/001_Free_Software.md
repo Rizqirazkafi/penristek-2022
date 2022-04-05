@@ -14,7 +14,7 @@ Free software, adalah jenis perangkat lunak yang menunaikan hak pengguna. Hak pe
 
 Dengan "free softwares", kita mengetahui apa yang kita jalankan dan dapat dengan bebas mempelajari dan merubah software tersebut. Sedangkan disisi lain, proprietary software ada untuk mencegah hal tersebut. Akibatnya kita tidak tahu apa yang sedang kita jalankan. Bisa saja software yang kita jalankan mengandung virus atau sejenis program lain yang melacak setiap gerak-gerik kita tanpa kita sadari.
 
-### Contoh Free Software :
+### Contoh Free Software 
 * GNU/Linux Operating System
 * Linux Kernel
 * Libreoffice
@@ -23,9 +23,12 @@ Dengan "free softwares", kita mengetahui apa yang kita jalankan dan dapat dengan
 * GNU/Emacs
 * dan masih banyak lagi
 
-### Contoh Proprietary Software :
+### Contoh Proprietary Software 
 * Microsoft Windows
 * Microsfot Office Suite
 * Adobe Suite
 * Corel Draw
 * Google Chrome
+  
+### Referensi 
+* [GNU Website](https://www.gnu.org/philosophy/philosophy.html)
